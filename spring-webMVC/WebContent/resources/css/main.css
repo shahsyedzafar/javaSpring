@@ -1,0 +1,36 @@
+
+.formTable {
+	width: 400px;
+	border: 1px solid blue;
+}
+
+input[type=text], input[type=email] {
+	width: 250px;
+	
+}
+
+textarea {
+	width: 250px;
+	height: 300px;
+	
+}
+
+.control {
+
+
+	margin-left: 10px;
+}
+
+.label {
+	text-align: right;
+	vertical-align: top;
+}
+.error {
+	margin-left: 10px;
+	font-size: small;
+	color: red;
+}
+
+.offersTable td {
+	color: red;
+}
